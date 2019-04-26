@@ -1,6 +1,6 @@
 {
   "name": "@helpercss/helpercss",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Helpercss",
   "main": "helper.css",
   "style": "helper.css",
@@ -19,6 +19,6 @@
   "bugs": "https://github.com/Alicannklc/Helpercss",
   "homepage": "https://github.com/Alicannklc/Helpercss",
    "dependencies": {
-    "@helpercss/helpercss": "^1.0.4"
+    "@helpercss/helpercss": "^1.0.5"
   }
 }
