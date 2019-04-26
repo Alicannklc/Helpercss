@@ -4,15 +4,15 @@ Donations are **greatly appreciated!**
 
 **[BUY ME A COFFEE](https://www.patreon.com/join/alicannklc)**
 
-*[Margin top](#margin-top)
-*[Padding Top](#padding-top)
-*[Margin bottom](#margin-bottom)
-*[Padding bottom](#padding-bottom)
-*[Margin Left](#margin-left)
-*[Padding left](#padding-left)
-*[Margin right](#margin-right)
-*[Padding right](#padding-right)
-*[Font Size](#font-size)
+* [Margin top](#margin-top)
+* [Padding Top](#padding-top)
+* [Margin bottom](#margin-bottom)
+* [Padding bottom](#padding-bottom)
+* [Margin Left](#margin-left)
+* [Padding left](#padding-left)
+* [Margin right](#margin-right)
+* [Padding right](#padding-right)
+* [Font Size](#font-size)
 
 
 ## Margin Top
