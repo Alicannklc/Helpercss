@@ -1,15 +1,24 @@
 {
-  "name": "helpercss",
-  "version": "1.0.1",
+  "name": "@helpercss/helpercss",
+  "version": "1.0.3",
   "description": "Helpercss",
   "main": "helper.css",
   "style": "helper.css",
+    "keywords": [
+    "css",
+    "front-end"
+  ],
   "files": [
     "LICENSE.md",
-    "helper.css"
+    "helper.css",
+	"helper.css.map",
+	"helper.min.css"
   ],
   "repository": "Alicannklc/Helpercss",
   "license": "MIT",
   "bugs": "https://github.com/Alicannklc/Helpercss",
-  "homepage": "https://github.com/Alicannklc/Helpercss"
+  "homepage": "https://github.com/Alicannklc/Helpercss",
+   "dependencies": {
+    "@helpercss/helpercss": "^1.0.3"
+  }
 }
