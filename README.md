@@ -1,7 +1,7 @@
 * [NPM](https://www.npmjs.com/package/@helpercss/helpercss)
-* [ Cdn](https://unpkg.com/@helpercss/helpercss@1.0.3/helper.css)
+* [ Cdn]https://unpkg.com/@helpercss/helpercss@1.0.6/css/helper.css)
 
-* [MİN Cdn](https://unpkg.com/@helpercss/helpercss@1.0.3/helper.min.css)
+* [MİN Cdn](https://unpkg.com/@helpercss/helpercss@1.0.6/css/helper.min.css)
 
 
 Donations
