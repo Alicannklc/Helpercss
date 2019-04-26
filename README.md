@@ -1,9 +1,10 @@
-[Margin-top](#margin-top)
+[Margin top](#margin-top)
+[Padding Top](#padding-top)
+[Margin bottom](#margin-bottom)
 
------------
+
+
 ## Margin Top
---------
-
 |Prefix  | Description|
 |--|--|
 | mt-0 |   margin-top: 0px !important;|
@@ -29,9 +30,7 @@
 | mt-100 |   margin-top: 100px !important;|
 
 
------------
- ## Padding Top
---------
+## Padding Top
 
 |Prefix  | Description|
 |--|--|
@@ -59,9 +58,7 @@
 
 
 
------------
 ##  Margin Bottom
---------
 
 |Prefix  | Description|
 |--|--|
@@ -87,9 +84,7 @@
 | mb-95 |   margin-bottom: 95px !important;|
 | mb-100 |   margin-bottom: 100px !important;|
 
------------
 ## Padding bottom
---------
 
 |Prefix  | Description|
 |--|--|
@@ -115,10 +110,7 @@
 | pb-95 |   padding-bottom: 95px !important;|
 | pb-100 |   padding-bottom: 100px !important;|
 
-
------------
 ## Margin Left
---------
 
 |Prefix  | Description|
 |--|--|
@@ -144,9 +136,7 @@
 | ml-95 |   margin-left: 95px !important;|
 | ml-100 |   margin-left: 100px !important;|
 
------------
 ## Padding Left
---------
 
 |Prefix  | Description|
 |--|--|
@@ -173,9 +163,7 @@
 | pl-100 |   padding-left: 100px !important;|
 
 
------------
 ## Margin Right
---------
 
 |Prefix  | Description|
 |--|--|
@@ -201,9 +189,7 @@
 | mr-95 |   margin-right: 95px !important;|
 | mr-100 |   margin-right: 100px !important;|
 
------------
 ## Padding Right
---------
 
 |Prefix  | Description|
 |--|--|
@@ -228,9 +214,8 @@
 | pr-90|   padding-right: 90px !important;|
 | pr-95 |   padding-right: 95px !important;|
 | pr-100 |   padding-right: 100px !important;|
------------
+
 ## Font Size
---------
 
 |fsefix  | Description|
 |--|--|
