@@ -1,0 +1,16 @@
+{
+  "name": "Helpercss",
+  "version": "1.0.1",
+  "description": "Helpercss",
+  "authors": [
+    "Helpercss"
+  ],
+  "keywords": [
+    "css",
+    "helpercss",
+    "frontend"
+  ],
+  "license": "MİT",
+  "private": false,
+  "homepage": "https://github.com/Alicannklc/Helpercss"
+}
